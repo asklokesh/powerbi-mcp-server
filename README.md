@@ -1,5 +1,7 @@
 # Power BI MCP Server
 
+<!-- mcp-name: io.github.asklokesh/powerbi-mcp-server -->
+
 <div align="center">
 
 # Powerbi Mcp Server
