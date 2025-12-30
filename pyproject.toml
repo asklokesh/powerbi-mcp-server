@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 powerbi-mcp = "powerbi_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/powerbi_mcp"]
